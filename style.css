@@ -1,0 +1,17 @@
+*{margin: 0;
+padding: 0;}
+.price{
+    width: 50%; font-weight: bolder; padding-bottom: 2rem; font-size: 2rem; color: yellow; margin-left: 10px;
+}
+
+.card-image{
+    width: 90%; border-radius: 20px; background-color: lightgray; height:100%; margin: 10px auto;
+}
+
+.middle-card-image{
+    width: 70%; margin-left:40px; margin-top:10px;
+}
+
+.resizer{
+    width:80%; margin-left: 25px; margin-top: 5px;
+}
